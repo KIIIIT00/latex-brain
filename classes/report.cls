@@ -8,12 +8,12 @@
 % 2カラム,A4,フォントサイズ9pt
 \LoadClass[
     paper=a4,
-    fontsize=11pt,
+    fontsize=10pt,
     disablejfam,
-    head_space=30mm,
-    foot_space=30mm,
-    gutter=25mm,
-    fore-edge=25mm,
+    head_space=10mm,
+    foot_space=10mm,
+    gutter=15mm,
+    fore-edge=15mm,
     linegap=1zw,
     report]
     {jlreq}
